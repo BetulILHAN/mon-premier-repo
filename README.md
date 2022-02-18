@@ -24,3 +24,5 @@ git add <fichier>
 ```shell
 git commit -m<description>
 ```
+
+* Le fichier '.gitignore' permet a git de connaitr les fichiers et dossiers à ignorer 
